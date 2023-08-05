@@ -13,3 +13,7 @@ Luke Andrea - Clinician
 Sachin Mehta - Clinician
 
 Mark Tidswell - Clinician
+
+# Team's Question
+
+“How well do local guidelines and severity scores perform and how effective are they in predicting patient deterioration?”
